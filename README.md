@@ -1,1 +1,0 @@
-# proyectos-Albertogomp.github.io
