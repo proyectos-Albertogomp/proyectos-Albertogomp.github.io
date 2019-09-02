@@ -131,7 +131,7 @@ iframe{
     ##Device = Tablets, Ipads (landscape)
     ##Screen = B/w 768px to 1024px
   */
-  @media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) {
+  @media (min-width: 768px) and (max-width: 1024px) and  {
     #wrapper{
         background-image: url(img/tori-mobile.jpg);
     }
